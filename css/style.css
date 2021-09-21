@@ -18,6 +18,7 @@
     object-fit: contain;
     object-position: center bottom;
     width: auto;
+    position: relative;
 }
 
 .nav {
