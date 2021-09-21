@@ -7,7 +7,7 @@
     color: black;
 }
 
-h1 {
+.logo {
     display: flex;
     align-items: center;
     flex-direction: column;
