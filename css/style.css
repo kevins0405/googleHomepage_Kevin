@@ -24,10 +24,11 @@
     display: flex;
     align-items: center;
     padding: 6px;
-    height: 40px;
+    height: 60px;
     flex-shrink: 0;
     box-sizing: border-box;
     flex-grow: 1;
     font-family: Arial,sans-serif;
     position: relative;
+    float: right;
 }
