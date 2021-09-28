@@ -29,6 +29,8 @@
     box-sizing: border-box;
     flex-grow: 1;
     font-family: Arial,sans-serif;
-    position: relative;
+    position: fixed;
     float: right;
+    justify-content: flex-end;
+
 }
