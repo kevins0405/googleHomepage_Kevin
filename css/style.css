@@ -29,10 +29,16 @@
     box-sizing: border-box;
     flex-grow: 1;
     font-family: Arial,sans-serif;
-    position: absolute;
+    position: relative;
     float: right;
     justify-content: flex-end;
 }
 .nav-list {
     padding-left: 15px;
+}
+.søk {
+    padding: 20px;
+    max-height: 160px;
+    box-sizing: border-box;
+    
 }
